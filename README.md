@@ -6,7 +6,7 @@ Here is a clean and structured `README.md` file tailored for GitHub, based on yo
 
 Draw in the air using just your finger! This computer vision project allows users to interact with a virtual canvas using hand gestures. By combining **OpenCV** and **MediaPipe**, we created a fun, intuitive tool for real-time air drawing.
 
-![Air Canvas Demo](https://github.com/kanishkasah20/Air_Canvas_ml_model/assets/114860158/77a756ac-54ad-49c2-b784-c46ee868a01d)
+ 
 
 ---
 
